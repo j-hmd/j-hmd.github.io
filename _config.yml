@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
+title: [Hey, it's Juliana!]
+description: [Welcome to my GitHub Pages to display projects!]
 include:
   - index.md
