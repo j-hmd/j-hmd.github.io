@@ -5,9 +5,9 @@ collections:
   parts:
     output: true
 defaults:
-  - cope:
-    path: ""
-    type: parts
+  - scope:
+      path: ""
+      type: parts
   values:
     layout: default
 
