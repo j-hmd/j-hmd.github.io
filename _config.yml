@@ -1,8 +1,6 @@
-theme: jekyll-theme-minimal
-title: [Hey it's Juliana!]
-description: [Keep track of the things I'm wokring on!]
-collections:
-  parts:
-    output: true
+theme: minimal-mistakes-jekyll
+title: Hey it's Juliana!
+description: Keep track of the things I'm wokring on!
+
 
 
