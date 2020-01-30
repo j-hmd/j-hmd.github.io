@@ -4,10 +4,5 @@ description: [Keep track of the things I'm wokring on!]
 collections:
   parts:
     output: true
-defaults:
-  - scope:
-      path: ""
-      type: parts
-  values:
-    layout: default
+
 
