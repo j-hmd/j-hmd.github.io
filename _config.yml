@@ -1,5 +1,13 @@
 theme: jekyll-theme-minimal
 title: [Hey it's Juliana!]
-description: [Welcome to my GitHub Pages to display projects!]
-include:
-  - index.md
+description: [Keep track of the things I'm wokring on!]
+collections:
+  parts:
+    output: true
+defaults:
+  - cope:
+    path: ""
+    type: parts
+  values:
+    layout: default
+
