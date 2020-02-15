@@ -1,2 +1,2 @@
-# [Juliana's Page](https://juhamada13.github.io)
+# [Juliana's Page](https://j-hmd.github.io/
 GitHub page to display my projects!
